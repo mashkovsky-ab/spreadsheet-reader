@@ -1,10 +1,10 @@
 {
-	"name": "virtua-network/spreadsheet-reader",
+	"name": "mashkovsky-ab/spreadsheet-reader",
 	"description": "Spreadsheet reader library for Excel, OpenOffice and structured text files",
 	"keywords": ["spreadsheet", "xls", "xlsx", "ods", "csv", "excel", "openoffice"],
 	"homepage": "https://github.com/nuovo/spreadsheet-reader",
-	"version": "1.0.2",
-	"time": "2016-09-07",
+	"version": "1.0.3",
+	"time": "2018-09-07",
 	"type": "library",
 	"license": ["MIT"],
 	"authors": [
